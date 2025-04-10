@@ -64,7 +64,8 @@ Estou sempre aprendendo e aprimorando minhas habilidades, com foco em desenvolvi
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopesz-eng&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+      width="100px"
+    />
 
 </p>
 
